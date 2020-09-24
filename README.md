@@ -1,5 +1,5 @@
 ### Tor Traffic Detection
-## Tor Traffic Detection Using Convolutional and Recurrent Neural Networks - Diploma Thesis
+### Tor Traffic Detection Using Convolutional and Recurrent Neural Networks - Diploma Thesis
 
 C1.ipynb - CNN Model Implementation
 
